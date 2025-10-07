@@ -48,12 +48,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -64,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -73,4 +76,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
