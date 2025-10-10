@@ -64,6 +64,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
