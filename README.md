@@ -69,6 +69,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
