@@ -27,6 +27,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinan742/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinan742/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
