@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -94,5 +95,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
