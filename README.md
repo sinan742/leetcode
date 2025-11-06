@@ -71,6 +71,7 @@
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/sinan742/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sinan742/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
