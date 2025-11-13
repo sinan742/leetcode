@@ -81,6 +81,7 @@
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sinan742/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
