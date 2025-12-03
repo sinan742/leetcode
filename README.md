@@ -107,12 +107,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sinan742/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sinan742/leetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
