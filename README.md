@@ -55,6 +55,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sinan742/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sinan742/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/sinan742/leetcode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sinan742/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sinan742/leetcode/tree/master/2752-sum-multiples) |
