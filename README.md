@@ -8,6 +8,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/sinan742/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/sinan742/leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/sinan742/leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/sinan742/leetcode/tree/master/0620-not-boring-movies) |
 ## Tree
 |  |
 | ------- |
