@@ -108,6 +108,7 @@
 | [0485-max-consecutive-ones](https://github.com/sinan742/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1603-running-sum-of-1d-array](https://github.com/sinan742/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/sinan742/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -135,6 +136,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/sinan742/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
