@@ -85,6 +85,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sinan742/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sinan742/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sinan742/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sinan742/leetcode/tree/master/0263-ugly-number) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinan742/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/sinan742/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sinan742/leetcode/tree/master/0075-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinan742/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
