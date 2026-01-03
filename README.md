@@ -73,6 +73,7 @@
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -110,6 +111,7 @@
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sinan742/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1603-running-sum-of-1d-array](https://github.com/sinan742/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sinan742/leetcode/tree/master/1920-build-array-from-permutation) |
