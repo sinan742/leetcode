@@ -45,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinan742/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sinan742/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sinan742/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -77,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/sinan742/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
