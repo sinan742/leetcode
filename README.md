@@ -52,6 +52,7 @@
 | [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sinan742/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/sinan742/leetcode/tree/master/0812-rotate-string) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
@@ -84,6 +85,7 @@
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -124,6 +126,7 @@
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sinan742/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1603-running-sum-of-1d-array](https://github.com/sinan742/leetcode/tree/master/1603-running-sum-of-1d-array) |
