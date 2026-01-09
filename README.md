@@ -52,6 +52,7 @@
 | [0383-ransom-note](https://github.com/sinan742/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan742/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sinan742/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/sinan742/leetcode/tree/master/0812-rotate-string) |
@@ -109,6 +110,7 @@
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sinan742/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/sinan742/leetcode/tree/master/2235-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sinan742/leetcode/tree/master/2752-sum-multiples) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/sinan742/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
