@@ -115,6 +115,7 @@
 | [0326-power-of-three](https://github.com/sinan742/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/sinan742/leetcode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/sinan742/leetcode/tree/master/2235-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sinan742/leetcode/tree/master/2752-sum-multiples) |
