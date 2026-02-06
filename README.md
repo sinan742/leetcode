@@ -112,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/sinan742/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sinan742/leetcode/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sinan742/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -146,6 +147,7 @@
 | [0283-move-zeroes](https://github.com/sinan742/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sinan742/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sinan742/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/sinan742/leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
