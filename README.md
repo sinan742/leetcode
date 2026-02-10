@@ -151,6 +151,7 @@
 | [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sinan742/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/sinan742/leetcode/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/sinan742/leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1603-running-sum-of-1d-array](https://github.com/sinan742/leetcode/tree/master/1603-running-sum-of-1d-array) |
