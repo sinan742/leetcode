@@ -68,6 +68,7 @@
 | [0812-rotate-string](https://github.com/sinan742/leetcode/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/sinan742/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/sinan742/leetcode/tree/master/0917-reverse-only-letters) |
+| [1844-replace-all-digits-with-characters](https://github.com/sinan742/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/sinan742/leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
