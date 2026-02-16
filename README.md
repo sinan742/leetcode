@@ -145,6 +145,7 @@
 | [0001-two-sum](https://github.com/sinan742/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/sinan742/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sinan742/leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/sinan742/leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinan742/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sinan742/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sinan742/leetcode/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sinan742/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sinan742/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sinan742/leetcode/tree/master/0389-find-the-difference) |
