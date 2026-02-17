@@ -69,6 +69,7 @@
 | [0812-rotate-string](https://github.com/sinan742/leetcode/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/sinan742/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/sinan742/leetcode/tree/master/0917-reverse-only-letters) |
+| [1528-shuffle-string](https://github.com/sinan742/leetcode/tree/master/1528-shuffle-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/sinan742/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/sinan742/leetcode/tree/master/3379-score-of-a-string) |
@@ -159,6 +160,7 @@
 | [0896-monotonic-array](https://github.com/sinan742/leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sinan742/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1528-shuffle-string](https://github.com/sinan742/leetcode/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sinan742/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sinan742/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
