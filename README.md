@@ -52,6 +52,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sinan742/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinan742/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sinan742/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sinan742/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sinan742/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sinan742/leetcode/tree/master/0205-isomorphic-strings) |
@@ -126,6 +127,7 @@
 | [0002-add-two-numbers](https://github.com/sinan742/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sinan742/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sinan742/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sinan742/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sinan742/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sinan742/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
@@ -195,6 +197,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sinan742/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sinan742/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
