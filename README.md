@@ -135,6 +135,7 @@
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/sinan742/leetcode/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sinan742/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2235-add-two-integers](https://github.com/sinan742/leetcode/tree/master/2235-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sinan742/leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sinan742/leetcode/tree/master/2752-sum-multiples) |
@@ -177,6 +178,7 @@
 | [0190-reverse-bits](https://github.com/sinan742/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/sinan742/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sinan742/leetcode/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sinan742/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sinan742/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
