@@ -65,6 +65,7 @@
 | [0389-find-the-difference](https://github.com/sinan742/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sinan742/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan742/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/sinan742/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/sinan742/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/sinan742/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sinan742/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
