@@ -77,6 +77,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/sinan742/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/sinan742/leetcode/tree/master/2788-split-strings-by-separator) |
+| [2942-find-words-containing-character](https://github.com/sinan742/leetcode/tree/master/2942-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/sinan742/leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
@@ -173,6 +174,7 @@
 | [2058-concatenation-of-array](https://github.com/sinan742/leetcode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/sinan742/leetcode/tree/master/2502-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/sinan742/leetcode/tree/master/2788-split-strings-by-separator) |
+| [2942-find-words-containing-character](https://github.com/sinan742/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
